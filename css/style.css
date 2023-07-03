@@ -8,10 +8,6 @@
 	margin-top: 1em;
 }
 
-.mtbor {
-    border-bottom: 1px dotted black;
-}
-
-.mbbor {
-    border-bottom: 1px dotted black;
+.mt-3 {
+    margin-top: 30px;
 }
